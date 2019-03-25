@@ -2,4 +2,4 @@
 
 ## Logistic Regression
 
-## K-Nearest Neighbour
+## K-Nearest Neighbour(K-NN)
