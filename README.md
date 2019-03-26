@@ -4,4 +4,4 @@
 
 ## K-Nearest Neighbour(K-NN)
 
-## Support Vector Machine
+## Support Vector Machine(SVM)
