@@ -5,3 +5,5 @@
 ## K-Nearest Neighbour(K-NN)
 
 ## Support Vector Machine(SVM)
+
+## Naive Bayes
