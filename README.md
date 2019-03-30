@@ -8,4 +8,4 @@
 
 ## Naive Bayes
 
-## Decision Tree Classificatio
+## Decision Tree Classification
