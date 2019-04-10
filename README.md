@@ -1,4 +1,7 @@
 # Machine-Learning-Classification
+
+Unlike regression where you predict a continuous number, you use classification to predict a category. There is a wide variety of classification applications from medicine to marketing.
+
 Types of Classification:
 
   i) Logistic Regression
