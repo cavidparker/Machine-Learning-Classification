@@ -5,8 +5,8 @@
 
 -  choose a standard architecture such as VGG, GoogleNet or ResNet
 
-1. Input Image >> Feature Selections >> Classifier >> Result [Traditional ML]
-2. Input Image >> Neural Network >> Result [Deep Learning]
+- 1. Input Image >> Feature Selections >> Classifier >> Result [Traditional ML]
+- 2. Input Image >> Neural Network >> Result [Deep Learning]
 
 - the major difference between ML and DL algorithms is that for ML you have to create your own feature vector, while for DL algorithms they extract features automatically in convolution layers.
 
